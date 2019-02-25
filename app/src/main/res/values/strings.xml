@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NyTimesTestApp</string>
+    <string name="no_news">No news available now.Please try after sometime.</string>
+    <string name="article_image">article image</string>
+</resources>
